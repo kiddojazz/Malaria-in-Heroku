@@ -1,0 +1,6 @@
+streamlit
+Image
+numpy
+tensorflow
+keras
+PIL
